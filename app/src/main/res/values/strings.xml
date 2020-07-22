@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="title_activity_form">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_post">User post</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="welcome_button">"Let's start"</string>
+    <string name="welcome_logo">Logo+CatchPhrase</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="grid_view_upload">gv_upload</string>
+    <string name="recycled_img">Imgur picture</string>
+    <string name="upload_view">Image view</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
